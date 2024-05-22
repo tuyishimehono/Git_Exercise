@@ -1,2 +1,2 @@
 #Git Exercises
-This was practice for git commands
+This was practice for git advanced commands. 
